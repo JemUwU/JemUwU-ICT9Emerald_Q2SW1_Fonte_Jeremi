@@ -1,0 +1,65 @@
+#PS {
+	border: solid;
+	border-width: 100;
+	text-align: center;
+	background-color: floralwhite;
+	font: ;
+}
+#D1 {
+	border: solid;
+	text-align: center;
+	width: 19.7%;
+	border-width: medium;
+	display: inline-block;
+}
+#D2 {
+	border: solid;
+	text-align: center;
+	width: 70%;
+	border-width: medium;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: floralwhite;
+	font-size: 30px;
+}
+#D3 {
+	border: solid;
+	text-align: center;
+	width: 70%;
+	border-width: medium;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: floralwhite;
+	font-size: 30px;
+}
+#D4 {
+	border: solid;
+	text-align: center;
+	width: 19.7%;
+	border-width: medium;
+	display: inline-block;
+}
+
+#LOGO {
+	width: 400;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-image: url('GF.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+#my {
+	zoom: 50%;
+}
+p {
+	font: italic;
+}
+h2 {
+	font: serif;
+	font: italic;
+}
